@@ -1,1 +1,1 @@
-# prompt-engineering-course
+# dlai-cgpt-prompt-course
